@@ -1,6 +1,6 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>ca.uwo.csd.cs2212.rick-maclean</groupId>
+  <groupId>com.macleanmanuscript.rick-maclean</groupId>
   <artifactId>rick-maclean</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
